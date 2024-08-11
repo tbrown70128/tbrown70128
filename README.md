@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terence! <br/><a href="https://github.com/tbrown70128">Programmer</a>, <a href="https://www.linkedin.com/in/terencebrown70128/">Cybersecurity Student</a>
+<h1>Hi, I'm Terence! <a href="https://www.linkedin.com/in/terencebrown70128/">Cybersecurity Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
