@@ -3,11 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/tbrown70128/ActiveDirectoryLab)
+- VPN with WireGuard and Home Assistant
+- Active Directory Home Lab that includes Splunk, Kali Linux & Atomic Red Team
 
 <h2> 📃Certifications</h2>
 
-- [Google IT Support Professional](https://www.credly.com/users/terence-brown.2d0bff33)
+- [Comptia A+](https://www.credly.com/badges/e5474815-19bc-495a-9b8e-7310cacc3782/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/59a9466d-7141-44b2-8950-5f9a80e68a66)
 - [Python for Beginners](https://www.sololearn.com/certificates/CT-LZMOSUJ5)
+
 
 <h2> 🤳 Connect with me:</h2>
 
