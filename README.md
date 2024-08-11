@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/tbrown70128/ActiveDirectoryLab)
-- VPN with WireGuard and Home Assistant
+- [VPN with WireGuard and Home Assistant](https://github.com/tbrown70128/wiregaurdvpn/tree/main)
 - Active Directory Home Lab that includes Splunk, Kali Linux & Atomic Red Team
 
 <h2> 📃Certifications</h2>
